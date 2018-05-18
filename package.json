@@ -1,0 +1,11 @@
+{
+  "name": "mall-sell",
+  "version": "1.0.0",
+  "description": "这是一个电商网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
